@@ -12,11 +12,7 @@
 
 ### 游戏相关的页面
 
-![预览图片](https://midcu.github.io/游戏页面.png)
-
-![开始页面](https://midcu.github.io/开始.png)
-
-![通关失败页面](https://midcu.github.io/通关失败.png)
+![预览图片](https://midcu.github.io/游戏页面.png) ![开始页面](https://midcu.github.io/开始.png) ![通关失败页面](https://midcu.github.io/通关失败.png)
 
 
 ### 微信小程序体验地址
