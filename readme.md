@@ -19,5 +19,5 @@
 ![通关失败页面](https://midcu.github.io/通关失败.png)
 
 
-### 维新小程序体验地址
+### 微信小程序体验地址
 ![微信小程序体验地址](https://midcu.github.io/test.jpg)
