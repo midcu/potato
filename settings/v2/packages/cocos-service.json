@@ -1,0 +1,53 @@
+{
+  "game": {
+    "app_id": "656669345",
+    "name": "star_20221013131534",
+    "c_id": "0"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "3c60cb"
+    },
+    {
+      "app_id": "656669339",
+      "config_id": "703484"
+    },
+    {
+      "app_id": "656669345",
+      "config_id": "5cd054"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "3c60cb",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "656669339",
+      "config_id": "703484",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "656669345",
+      "config_id": "5cd054",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": false,
+          "param": {
+            "app_id": "656669345",
+            "store_id": "160564"
+          }
+        }
+      ]
+    }
+  ]
+}
