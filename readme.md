@@ -9,10 +9,15 @@
 
 安装cocos dashboard，下载编辑器（我使用的编辑器版本是3.6.1）， 然后导入此项目即可，我使用的编辑器版本是3.6.1。
 
+
+### 游戏相关的页面
+
 ![预览图片](https://midcu.github.io/游戏页面.png)
 
 ![开始页面](https://midcu.github.io/开始.png)
 
 ![通关失败页面](https://midcu.github.io/通关失败.png)
 
+
+### 维新小程序体验地址
 ![微信小程序体验地址](https://midcu.github.io/test.jpg)
